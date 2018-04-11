@@ -1,7 +1,7 @@
 # haproxy-samples
 HAProxy configuration samples originally shared at 2018 EDUCAUSE Security Professionals Conference.
 
-[What's Your HTTPS Grade? Improve Your Campus Web Security with Open-Source HAProxy Load Balancers](http://slides.com/brandonkish/whats-your-https-grade) was presented by Brandon Kish and Kirk Lehr from [Mid Michigan Community College](https://www.midmich.edu/?bad_host=midmich.edu).
+[What's Your HTTPS Grade? Improve Your Campus Web Security with Open-Source HAProxy Load Balancers](http://slides.com/brandonkish/whats-your-https-grade) was presented by Brandon Kish and Kirk Lehr from [Mid Michigan Community College](https://www.midmich.edu/).
 
 These configuration examples were written for the 1.5 branch of HAProxy, but should be adaptable to newer versions, too.
 
